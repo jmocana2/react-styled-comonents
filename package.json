@@ -1,0 +1,26 @@
+{
+  "name": "react-styled-comonents",
+  "version": "1.0.0",
+  "description": "probando styled-components de react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmocana2/react-styled-comonents.git"
+  },
+  "keywords": [
+    "styled-component",
+    "react"
+  ],
+  "author": "jmocana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmocana2/react-styled-comonents/issues"
+  },
+  "homepage": "https://github.com/jmocana2/react-styled-comonents#readme",
+  "dependencies": {
+    "styled-components": "^1.4.5"
+  }
+}
